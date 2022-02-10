@@ -1,0 +1,21 @@
+---
+title: "Tobias"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Im currently study soltiary bee microbiomes
+
+before this I did loads of weird jobs including:
+
+* researching floral microbial communities
+* working in california citrus IPM
+* discovering a disease that caused cannibalism in an insect
+  * crazy little zombie bugs!
+
+Anyways, im thouroughly enjoying learning git in this class
