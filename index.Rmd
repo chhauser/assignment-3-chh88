@@ -1,0 +1,16 @@
+---
+title: "index"
+author: "Cole"
+date: "2/10/2022"
+output: html_document
+---
+
+# Foraging Foray
+
+A coding collaboration between  
+  - [Cole Hauser](https://github.com/chhauser)  
+  - [Tobias Mueller](https://github.com/tobiasgmueller)
+
+<br>
+
+![Jack O'Lantern Mushrooms on Cornell's Campus. Sept 2021](JackOLantern092921.png)
