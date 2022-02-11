@@ -1,9 +1,13 @@
 ---
 title: "Cole"
-author: "Cole"
-date: "2/10/2022"
 output: html_document
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
 # About Me: Cole
 
 **Outdoor** activities I enjoy  
