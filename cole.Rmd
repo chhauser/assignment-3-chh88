@@ -7,7 +7,7 @@ output: html_document
 # About Me: Cole
 
 **Outdoor** activities I enjoy  
-<br>
-- Fall hiking   
-- Mushroom hunting    
-- Tree hugging     
+
+* Fall hiking   
+* Mushroom hunting    
+* Tree hugging     
